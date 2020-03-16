@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584029223756' stop='1584029241347'>
+    <name>Action Panel</name>
+    <title>Action Panel</title>
+    <test-cases>
+        <test-case start='1584029223756' status='passed' stop='1584029241346'>
+            <name>Action Panel Test</name>
+            <title>Action Panel Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
